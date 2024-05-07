@@ -1,4 +1,3 @@
-# README
 
 ## Ask Me Anything
 
